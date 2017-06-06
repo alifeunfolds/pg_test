@@ -1,0 +1,5 @@
+package: github.com/alifeunfolds/pg_test
+import:
+- package: github.com/lib/pq
+- package: github.com/labstack/echo
+  version: ^3.1.0
